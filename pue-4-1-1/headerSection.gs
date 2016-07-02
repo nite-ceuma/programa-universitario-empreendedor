@@ -9,5 +9,5 @@ function headerSection() {
                                                    +"                                                ");
   textHeader.setAlignment(DocumentApp.HorizontalAlignment.JUSTIFY).setFontSize(12);
   textHeader.appendText(ss.getSheets()[1].getRange(9, 2).getValue()+"\n").setFontSize(12);
-
+  
 }
