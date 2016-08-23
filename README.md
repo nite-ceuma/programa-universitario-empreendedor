@@ -5,6 +5,6 @@ O Programa Universitário Empreendedor é um programa do *NITE-CEUMA* focado no 
 * [Pasta pública] (http://bit.ly/nite-public) - todos os _assets_ do material necessário para se criar o programa
 * [Comunidade] (http://bit.ly/comunidade-uni-emp) - nossa comunidade no Slack onde acontece as interações
 * [Wiki] (https://github.com/nite-ceuma/pue/wiki) - wiki com os objetos de aprendizagem e evolução dos times
-Além destes, aqui são encontrados os códigos dos produtos desenvolvidos e os quais não se viu necessidade de fechar código.
+Além destes, aqui são encontrados os códigos dos produtos desenvolvidos e os quais não se viu necessidade de fechar código, por exemplo a pasta do time L.P.A.
 
 Qualquer dúvida efremfilho _arroba_ ceuma.br
