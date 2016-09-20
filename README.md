@@ -1,4 +1,4 @@
-# PUE
+# Programa Universitário Empreendedor (PUE)
 Todos os dados referentes ao Programa Universitário Empreendedor.
 ## Sobre
 O Programa Universitário Empreendedor é um programa do *NITE-CEUMA* focado no desenvolvimento das competências necessárias para os empregos futuros. Há duas versões - 16 semanas (*PUE-16*) e 4 semanas (*PUE-4*). Atualmente está em execução a primeira turma do PUE4 (*PUE-4-1*) e os dados podem ser encontrados:
